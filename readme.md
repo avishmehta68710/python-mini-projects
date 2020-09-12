@@ -1,2 +1,1 @@
-﻿Created a Music player using python
-
+﻿Created a Music player using python and GUI
